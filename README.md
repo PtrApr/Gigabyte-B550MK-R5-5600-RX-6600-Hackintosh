@@ -1,5 +1,6 @@
 # Gigabyte-B550MK-R5-5600-RX-6600-Hackintosh
 My EFI directory of Opencore for Gigabyte B550MK, Ryzen 5 5600, RX 6600, BCM943602CS hackintosh
+![image](./assets/neofetch.png)
 ## Includes
 - Opencore 1.0.5
 > https://github.com/acidanthera/OpenCorePkg/releases
